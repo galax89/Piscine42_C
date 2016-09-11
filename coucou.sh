@@ -9,6 +9,6 @@ while [ 1 ]
 do
 		for i in {1..15} {17..231} {235..256}
 				do
-							echo "\x1b[7m\033[38;5;${i}m ${coucou} \033[0m\c"
+							echo "${coucou}"
 								done
 							done
